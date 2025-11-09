@@ -1,0 +1,10 @@
+User Name: Jimmy
+
+Submitted: 2025-11-09T10:48:54.680+00:00
+
+Description:
+User reports they dropped a 3D printer. Possible physical/electrical damage. Requesting technician assessment and repair/replacement guidance.
+
+Status: Open
+
+Priority: Urgent
